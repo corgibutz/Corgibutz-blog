@@ -104,14 +104,14 @@ p{
 #subscribe{
     padding-top: 33px;
     padding-bottom: 65px;
-    background: black;
+    background: #000;
 }
 #subscribe h1{
     float: left;
     font-size: 20px;
     color: #000;
     margin-top: 13px;
-    color: white;
+    color: #fff;
 }
 
 #subscribe form{
